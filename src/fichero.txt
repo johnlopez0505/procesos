@@ -1,0 +1,5 @@
+total 16
+-rw-rw-r-- 1 john john  116 oct 11 17:59 Main.java
+drwxrwxr-x 2 john john 4096 oct 11 18:01 recursos
+drwxrwxr-x 2 john john 4096 oct 11 18:07 tarea5
+drwxrwxr-x 2 john john 4096 oct 11 21:54 tarea6
