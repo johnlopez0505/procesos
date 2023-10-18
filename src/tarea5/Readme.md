@@ -67,3 +67,7 @@ Ejecutamos nuestro programa: `RunTime`
 
 
 ![img2](../recursos/img2.png)
+
+
+Dejeo el enlace al repositorio
+[https://github.com/johnlopez0505/procesos.git](https://github.com/johnlopez0505/procesos.git)
