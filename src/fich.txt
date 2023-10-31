@@ -1,0 +1,7 @@
+PING www.google.com (142.250.201.68) 56(84) bytes of data.
+64 bytes from mad07s25-in-f4.1e100.net (142.250.201.68): icmp_seq=1 ttl=115 time=17.7 ms
+64 bytes from mad07s25-in-f4.1e100.net (142.250.201.68): icmp_seq=2 ttl=115 time=18.3 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 17.736/18.024/18.313/0.288 ms
