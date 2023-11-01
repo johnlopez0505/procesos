@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # TAREA CLASE
 
 ### Crear un programa completo, compuesto por dos ficheros java, uno que sea el principal y otro que sea un jar.
+=======
+# Crear un programa completo, compuesto por dos ficheros java, uno que sea el principal y otro que sea un jar.
+>>>>>>> origin/john
 * La idea es sencilla. Desde el programa principal, se leerá un texto por teclado y se creará un subproceso 
   mediante la llamada a otro fichero jar, llamado convertir-mayusculas.jar. Dicho jar deberá leer de su flujo
   de entrada dicho texto y devolverle al principal ese mismo texto convertido a mayúsculas.
