@@ -1,5 +1,0 @@
-total 16
--rw-rw-r-- 1 john john  208 oct 11 22:18 fichero.txt
-drwxrwxr-x 2 john john 4096 oct 11 18:01 recursos
-drwxrwxr-x 2 john john 4096 oct 11 22:15 tarea5
-drwxrwxr-x 2 john john 4096 oct 11 21:56 tarea6

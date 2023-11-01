@@ -74,11 +74,11 @@ Como podemos ver en la imagen anterior con tiempo 2 el proceso hijo termina ante
 Ahora lo ejecutaremos con menos tiempo: /home/john class 1
 
 ```shell
-cd /home/john/Escritorio/procesos/src/      
-javac tarea12/Tarea12.java              
-java tarea12/Tarea12.java /home/john class 1   
+cd src/      
+javac tarea15/Tarea15.java              
+java tarea15.Tarea15.java /home/john class 1   
 
-```
+```   
 
 ![img1](../recursos/imgTarea12-1.png)
 
@@ -99,8 +99,7 @@ salidas estándar. Esto significa que las salidas del proceso hijo se mostrarán
 5. processBuilder.redirectErrorStream(true) se utiliza para redirigir las salidas de error al flujo de salida estándar, 
 evitando que las salidas y los errores se mezclen.
 
-6. Se inicia el nuevo proceso con processBuilder.start().
-
+6. Se inicia el nuevo proceso con processBuilder.start(
 7. El programa espera el tiempo especificado utilizando p.waitFor(tiempoEspera, TimeUnit.MILLISECONDS). Si el proceso 
 hijo no ha finalizado dentro del tiempo especificado, se mata utilizando p.destroy().
 
